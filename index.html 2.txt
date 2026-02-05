@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=DM+Serif+Display:ital@0;1&family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="valentine-confession.css">
+
+        <title>Happy Birthday</title>
+
+    </head>
+
+    <body>
+
+        <p class="instruction">Click the heart!</p>
+
+        <div class="container">
+
+            <label>
+
+            <div class="heart">
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg"></img>
+
+            </div>
+
+            <input id="messageState" type="checkbox" style="display:none"/>
+
+            </label>
+
+            <div class="message">
+
+                <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">HAPPY BIRTHDAY, VIRGIN</h1>
+
+                <p> 
+
+                    <span>
+
+                        &emsp; happy birthday ya virgin. semoga hari ini jadi hari yang menyenangkan buat kamu, banyak senyum, banyak hal kecil yang bikin kamu happy, dan jauh dari hal-hal yang bikin capek pikiran. semoga kamu selalu sehat dan mood kamu baik seharian.
+                    </span>
+
+                    <br> <br>
+
+                    <span>
+
+                        &emsp;  may everything ahead of you come with ease, may you grow more confident in yourself, and may you never run out of good and fun things to experience. i hope your days ahead feel lighter and filled with good things.
+
+                    </span>      
+
+                </p>
+
+                <br>
+
+                <div class="sincere">
+
+                    <p style="font-weight: bold;"> With A,</p>
+
+                    <p>For Uuuu</p>
+
+                 </div>
+
+            </div>
+
+        </div>
+
+        
+
+        <script src="jquery.js"></script>
+
+        <script src="jquery2.1.js"></script>
+
+        <script defer src="valentine-confession.js"></script>
+
+    </body>
+
+</html>
+
+
+
